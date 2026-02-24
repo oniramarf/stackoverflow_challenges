@@ -1,0 +1,15 @@
+{
+  "name": "challenge16",
+  "version": "0.0.1",
+  "description": "Solution for stack overflow challenge 16",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francesco Marino",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.3.0"
+  }
+}
